@@ -1,0 +1,14 @@
+NLP-Text-Vectorization-BOW-TFIDF/
+│
+├── data/
+│   └── README.md
+│
+├── notebooks/
+│   └── NLP_BOW_TFIDF.ipynb
+│
+├── src/
+│   └── nlp_vectorization.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
