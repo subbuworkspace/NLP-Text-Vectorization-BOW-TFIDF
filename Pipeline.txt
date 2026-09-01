@@ -1,0 +1,22 @@
+Raw Text
+   ↓
+Sentence Tokenization
+   ↓
+Remove Special Characters
+   ↓
+Lowercase
+   ↓
+Stopword Removal
+   ↓
+Lemmatization
+   ↓
+Clean Corpus
+   ↓
+┌─────────────────┬─────────────────┐
+│ Bag of Words    │ TF-IDF          │
+│ CountVectorizer │ TfidfVectorizer │
+└─────────────────┴─────────────────┘
+   ↓
+Numerical Vectors
+   ↓
+Machine Learning
