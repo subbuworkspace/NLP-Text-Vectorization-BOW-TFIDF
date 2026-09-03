@@ -359,9 +359,7 @@ NLP-Text-Vectorization-BOW-TFIDF/
 
 ---
 
-# 🎓 Learning Outcome
-
-After completing this project, you should understand:
+# 🎓 Learning Outcome :
 
 * What NLP is
 * Why text preprocessing is required
